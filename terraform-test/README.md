@@ -19,4 +19,4 @@ verify_uploaded_files:
 verify belonging storage account container name
 
 **Check my medium article:**
-[article](https://medium.com/@madhubanti0007/terraform-test-by-terraform-a-native-testing-support-for-infrastructure-provisioning-85fda0fdbb06)
+[article](https://medium.com/@madhubanti0007/terraform-test-by-terraform-a-native-testing-support-for-infrastructure-provisioning-b2e06ce9bc46)
