@@ -3,7 +3,7 @@ It is a repo where I keep uploading terraform code samples
 
 **code sample 1:** [terraform-countvsforeach](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-countvsforeach) <br/>
                This code sample demonstrates the differences between count and for_each meta arguments in Terraform. <br/>
-               Blog on this here in medium: [for_each vs count](https://medium.com/@madhubanti0007/for-each-vs-count-ouch-a-cdf3de2baabb)
+               Blog on this here in medium: [Terraform meta arguments - for_each vs count](https://medium.com/@madhubanti0007/for-each-vs-count-ouch-a-cdf3de2baabb)
 
 
 **code sample 2:** [Native test support by terraform](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-test) <br/>
