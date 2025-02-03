@@ -12,5 +12,6 @@ It is a repo where I keep uploading terraform code samples
 
 **code sample 3:** [terraform state file in Azure storage account](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-remote-storage/README.md) <br/>
                    This code sample demonstrates how to store terraform-remote-state in Azure storage account and access it using Azure AD. <br/>
-                   It also shows how to provision resources by updating remote state - for that refer here: [Resource provision by referring to terraform remote state] <br/>(https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-resource-provision-using-remote-state) <br/>
+                   It also shows how to provision resources by updating remote state - for that refer here: <br/>
+                   [Resource provision by referring to terraform remote state](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-resource-provision-using-remote-state) <br/>
                    Blog on the complete process is here in medium: [Access Terraform Remote State in Azure Storage Account Using Azure AD](https://medium.com/@madhubanti0007/access-terraform-remote-state-in-azure-storage-account-using-azure-ad-44249531e52c) <br/>
