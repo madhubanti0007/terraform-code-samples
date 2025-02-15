@@ -18,10 +18,10 @@ It is a repo where I keep uploading terraform code samples
                    [Access Terraform Remote State in Azure Storage Account Using Storage Accountt Access Key](https://medium.com/@madhubanti0007/story-of-terraform-remote-state-today-let-us-access-it-with-azure-key-vault-ddbe71ddd17f)<br/>
                    [Blog on Blog on Access Terraform Remote State in Azure Storage Account Using SAS token for Storage Container ](https://medium.com/@madhubanti0007/story-of-terraform-remote-state-today-let-us-access-it-with-azure-sas-token-for-storage-container-7caa6d867842)<br/>
 
-**code sample 4:** [terraform-data-source](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-data-source/README.md)) <br/>
+**code sample 4:** [terraform-data-source](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-data-source/README.md)<br/>
                    This code sample demonstrates how you can access a non-terraform provisioned cloud resource using Terraform data source.
                    Blog on the complete process is here in the medium: [terraform data source - make your control over your cloud environment](https://medium.com/@madhubanti0007/data-sources-or-terraform-remote-state-in-terraform-make-your-control-secured-over-cloud-c20c0511d9cf)
 
-**code sample 5:** [terraform-remote-state-data-source](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-remote-state-data-source/README.md)) <br/>
+**code sample 5:** [terraform-remote-state-data-source](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-remote-state-data-source/README.md) <br/>
                    This code sample demonstrates how you can access a Terraform provisioned cloud resource (which is done using this related project [terraform-remote-state-resource-group](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-remote-state-resource-group/README.md) using terraform_remote_state data source.
                    Blog on the complete process is here in the medium: [terraform data source - make your control over your cloud environment](https://medium.com/@madhubanti0007/data-sources-or-terraform-remote-state-in-terraform-make-your-control-secured-over-cloud-c20c0511d9cf)
