@@ -1,4 +1,4 @@
 terraform-remote-state-resource-group project shows how you can create a resource group by referring to terraform state which is remotely stored in Azure Storage Account Container.
-In its related project [terraform-remote-state-data-source](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-remote-state-data-source) you will learn how to access a resource using **terraform_remote_state** data source.
+In its related project [terraform-remote-state-data-source](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-remote-state-data-source) you will learn how to access a resource using **terraform_remote_state** data source. <br/>
 See the [medium article](https://medium.com/@madhubanti0007/data-sources-or-terraform-remote-state-in-terraform-make-your-control-secured-over-cloud-c20c0511d9cf) to see how you can access a terraform provisioned resource group in Azure using terraform_remote_state resource group while being aware of the risks associated with using terraform_remote_state ie; why Terraform data source is better than terraform_remote_state:
 
