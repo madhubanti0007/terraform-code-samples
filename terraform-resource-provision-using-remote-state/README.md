@@ -1,5 +1,5 @@
 In this project you create a resource group for which terraform state information is stored in terraform.tfstate file which is located in the azure storage account. The storage account is created under [terraform-remote-storage](https://github.com/madhubanti0007/terraform-code-samples/tree/master/terraform-remote-storage)
-Check how to run here in the blogs:
+Check how to run here in the below blogs:
 
 [Access Terraform Remote State using Storage Account Access Key](https://medium.com/@madhubanti0007/story-of-terraform-remote-state-today-let-us-access-it-with-azure-key-vault-ddbe71ddd17f)
 
