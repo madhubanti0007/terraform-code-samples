@@ -17,7 +17,7 @@ It is a repo where I keep uploading terraform code samples
                    It also shows how to provision resources by updating remote state - for that refer here: <br/>
                    [Resource provision by referring to terraform remote state](https://github.com/madhubanti0007/terraform-code-samples/blob/master/terraform-resource-provision-using-remote-state/README.md) <br/>
                    <br/>
-                   Blogs on the complete process is here in medium: [Access Terraform Remote State in Azure Storage Account Using Azure AD](https://medium.com/@madhubanti0007/access-terraform-remote-state-in-azure-storage-account-using-azure-ad-44249531e52c) <br/>
+                   Blogs on the complete process is here in medium: <br/> [Access Terraform Remote State in Azure Storage Account Using Azure AD](https://medium.com/@madhubanti0007/access-terraform-remote-state-in-azure-storage-account-using-azure-ad-44249531e52c) <br/>
                    <br/>
                    [Access Terraform Remote State in Azure Storage Account Using Storage Accountt Access Key](https://medium.com/@madhubanti0007/story-of-terraform-remote-state-today-let-us-access-it-with-azure-key-vault-ddbe71ddd17f)<br/>
                    <br/>
