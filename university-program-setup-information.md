@@ -27,10 +27,18 @@ C:\Users\madhu\Terraform <br/>
 **Step 7:** **Open Visual Studio Code and install the extensions shown in image**
 ![image](https://github.com/user-attachments/assets/51d628bb-5c35-4db9-872e-7f80bf1c5ea7)
 
-**Step 8:** **Click on File -> Open Folder in VS Code**
+**Step 8:** **Click on File -> Open Folder in Visual Studio Code**
 ![image](https://github.com/user-attachments/assets/bfb1aa65-31cf-48b4-bd80-490effbc2410)
 
 **Step 9:** **Choose th folder "Terraform" you created in Step 2**
+
+**Step 10:** **Download the .zip file from here**
+[Repo link](https://github.com/madhubanti0007/terraform-code-samples)
+![image](https://github.com/user-attachments/assets/f5ed5c83-904a-41fa-b397-c3b289924734)
+
+**Step 11:**  
+
+
 
 
 
