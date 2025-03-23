@@ -1,3 +1,5 @@
+**Install and Configure Terraform**
+
 **Step 1:** **Install terraform as per below guideline**
 https://developer.hashicorp.com/terraform/install <br/>
 Download terraform based on your OS configuration. <br/>
@@ -58,7 +60,7 @@ b) Navigate to _terraform-test_ folder <br/>
 Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/ <br/>
 **Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends. <br/>
 
-**Step 14:** **Login to portal.azure.com** <br/>
+**Step 1:** **Login to portal.azure.com** <br/>
 ![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d) <br/>
 
 Your teenant will be shown as "DEFAULT DIRECTORY" <br/>
@@ -80,14 +82,14 @@ b) Copy the tenant id
 
 ![image](https://github.com/user-attachments/assets/a4a5785e-ad7e-476e-9688-f2f7fe8a6984)
 
-**Step 16:** **Search for "Resource Groups" in the search bar and create rsource group under free subscription**
+**Step 2:** **Search for "Resource Groups" in the search bar and create rsource group under free subscription**
 ![image](https://github.com/user-attachments/assets/812bbf3a-6262-4237-aa7a-0029d8ee46eb)
 
 Expected outcome: **It should not give any error.**
 
 (Delete the created resource group)
 
-**Step 17:** **Now Do App Registration  as mentioned below**
+**Step 3:** **Now Do App Registration  as mentioned below**
 
 Visit Azure portal and register “Terraform” app.
 ![image](https://github.com/user-attachments/assets/d082a8ea-6333-4f5b-86a6-7cb73647bad5)
@@ -96,7 +98,7 @@ Visit Azure portal and register “Terraform” app.
 
 ![image](https://github.com/user-attachments/assets/82434a47-9a97-465b-adec-864737ba6699)
 
-**Step 18:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
+**Step 4:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
 ![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
 
 **Test your Terraform Set-Up:**
