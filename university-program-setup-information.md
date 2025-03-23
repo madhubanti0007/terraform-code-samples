@@ -36,7 +36,7 @@ C:\Users\madhu\Terraform <br/>
 [Repo link](https://github.com/madhubanti0007/terraform-code-samples)  <br/>
 ![image](https://github.com/user-attachments/assets/f5ed5c83-904a-41fa-b397-c3b289924734)  <br/>
 
-**Step 11:**  ** Unzip the .zip file and copy the content from inside of the folder "terraform-code-samples" **
+**Step 11:**  **Unzip the .zip file and copy the content from inside of the folder "terraform-code-samples"**
 
 
 
