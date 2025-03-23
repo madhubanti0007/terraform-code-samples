@@ -85,6 +85,8 @@ b) Copy the tenant id
 
 Expected outcome: **It should not give any error.**
 
+(Delete the created resource group)
+
 **Step 17:** **Now Do App Registration  as mentioned below**
 
 Visit Azure portal and register “Terraform” app.
