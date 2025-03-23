@@ -58,6 +58,16 @@ b) Navigate to _terraform-test_ folder <br/>
 Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/
 **Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends.
 
+**Step 14:** **Login to portal.azure.com**
+![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d)
+
+In search bar, search for: Subscriptions
+
+I have paid subscriptions, in your case, you will see free subscription
+![image](https://github.com/user-attachments/assets/18750a9f-f178-414f-b860-abfa79952e0d)
+
+
+
 
 
 
