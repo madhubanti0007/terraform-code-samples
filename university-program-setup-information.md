@@ -16,7 +16,7 @@ https://code.visualstudio.com/download <br/>
 **Step 5:** **Click on Windows key and then click on** **"Edit the system environment variables** <br/>
 ![image](https://github.com/user-attachments/assets/6f15a7b4-dd16-48cc-bcf2-e30a436df21c) <br/>
 
-**Step 6:** **Click on "User variables" for your account and then select Path and click on Edit <br/>
+**Step 6:** **Click on "User variables" for your account and then select Path and click on Edit** <br/>
 Then click on "new" <br/>
 Add Path to your Terraform folder - which you accomplished in Step 2. <br/>
 In my case I added <br/>
