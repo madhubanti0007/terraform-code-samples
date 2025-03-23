@@ -63,7 +63,7 @@ Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsof
 **Step 1:** **Login to portal.azure.com** <br/>
 ![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d) <br/>
 
-Your teenant will be shown as "DEFAULT DIRECTORY" <br/>
+Your tenant will be shown as "DEFAULT DIRECTORY" <br/>
 
 a)In search bar, search for: Subscriptions <br/>
 
