@@ -85,7 +85,7 @@ b) Copy the tenant id
 
 Expected outcome: **It should not give any error.**
 
-**Step 17** **Now Do App Registration  as mentioned below**
+**Step 17:** **Now Do App Registration  as mentioned below**
 
 Visit Azure portal and register “Terraform” app.
 ![image](https://github.com/user-attachments/assets/d082a8ea-6333-4f5b-86a6-7cb73647bad5)
@@ -98,7 +98,7 @@ start registering app
 ![image](https://github.com/user-attachments/assets/82434a47-9a97-465b-adec-864737ba6699)
 
 
-**Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
+**Step 18:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
 ![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
 
 
