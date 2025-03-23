@@ -72,9 +72,12 @@ b) copy and note down the subscription id. <br/>
 
 **Step 15:** Note down tenant id <br/>
 a) In search bar, search for  "Tenant Properties" <br/>
+
 ![image](https://github.com/user-attachments/assets/697976d9-9767-40a5-bdd9-da1f9a3ffc58)
 
+
 b) Copy the tenant id
+
 ![image](https://github.com/user-attachments/assets/a4a5785e-ad7e-476e-9688-f2f7fe8a6984)
 
 
