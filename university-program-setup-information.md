@@ -44,6 +44,10 @@ b) then paste it within "Terraform" folder which you created in Step 2 <br/>
 Click on "Explorer" sign. <br/>
 ![image](https://github.com/user-attachments/assets/24c163f8-4805-4f67-98cf-f05c2e533a15)
 
+**Step 13:** **Open bash terminal**
+![image](https://github.com/user-attachments/assets/0a48d89a-ed0a-4ca0-b30e-c075d671d951)
+
+
 
 
 
