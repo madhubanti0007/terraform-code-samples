@@ -55,16 +55,29 @@ b) Navigate to _terraform-test_ folder <br/>
 ![image](https://github.com/user-attachments/assets/4febcdb7-9701-436d-a2ea-0d9f3bed8a8c) <br/>
 
 **Azure Free Account Set Up** <br/>
-Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/
-**Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends.
+Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/ <br/>
+**Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends. <br/>
 
-**Step 14:** **Login to portal.azure.com**
-![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d)
+**Step 14:** **Login to portal.azure.com** <br/>
+![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d) <br/>
 
-In search bar, search for: Subscriptions
+Your teenant will be shown as "DEFAULT DIRECTORY" <br/>
 
-I have paid subscriptions, in your case, you will see free subscription
-![image](https://github.com/user-attachments/assets/18750a9f-f178-414f-b860-abfa79952e0d)
+a)In search bar, search for: Subscriptions <br/>
+
+I have paid subscriptions, in your case, you will see free subscription <br/>
+![image](https://github.com/user-attachments/assets/18750a9f-f178-414f-b860-abfa79952e0d) <br/>
+
+b) copy and note down the subscription id. <br/>
+
+**Step 15:** Note down tenant id <br/>
+a) In search bar, search for  "Tenant Properties" <br/>
+![image](https://github.com/user-attachments/assets/697976d9-9767-40a5-bdd9-da1f9a3ffc58)
+
+b) Copy the tenant id
+![image](https://github.com/user-attachments/assets/a4a5785e-ad7e-476e-9688-f2f7fe8a6984)
+
+
 
 
 
