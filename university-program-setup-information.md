@@ -90,19 +90,12 @@ Expected outcome: **It should not give any error.**
 Visit Azure portal and register “Terraform” app.
 ![image](https://github.com/user-attachments/assets/d082a8ea-6333-4f5b-86a6-7cb73647bad5)
 
-
-start registering app
-
 **Note the app client id, you will require it later.**
 
 ![image](https://github.com/user-attachments/assets/82434a47-9a97-465b-adec-864737ba6699)
 
-
 **Step 18:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
 ![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
-
-
-note client secret
 
 
 
