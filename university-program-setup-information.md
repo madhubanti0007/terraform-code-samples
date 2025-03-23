@@ -97,6 +97,31 @@ Visit Azure portal and register “Terraform” app.
 **Step 18:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
 ![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
 
+**Test your Terraform Set-Up:**
+
+a) Open Visual Studio Code
+
+b) open main.tf under Terrafdorm-test folder
+
+c) There under below section, replace the values, you noted during your Azure account set up
+
+![image](https://github.com/user-attachments/assets/396be44a-9d87-49ff-b836-61a27c3b0bc9)
+
+d) in bash terminal, _navigate to terraform-test_
+![image](https://github.com/user-attachments/assets/6f9af1af-8075-4d86-b9c6-909ace5e982d)
+
+e) Run _terraform init_
+Expected outcome: It should install necessary provider versions
+![image](https://github.com/user-attachments/assets/37b7e0fc-005c-401a-8a16-7d61be630be7)
+
+f) Run _terraform plan_
+Expected outcome: It should show you the resources you want to create
+![image](https://github.com/user-attachments/assets/f9fc8da8-d8f8-44a5-bc5a-c623661b720d)
+
+**Opional:** If you would have LinkedIn account, you may visit this article and install Infracost plugin 
+Perform the steps mentioned till "Connect VSCode to Infracost".
+[LinkedIn Article](http://linkedin.com/pulse/infracost-predict-cost-your-terraform-before-you-provision-jash-5nquf/?trackingId=Lsmv6pz%2FSw%2BAJ331l0FBXA%3D%3D)
+
 
 
 
