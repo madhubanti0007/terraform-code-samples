@@ -26,6 +26,7 @@ C:\Users\madhu\Terraform <br/>
 
 **Step 7:** **Open Visual Studio Code and install the extensions shown in image**  <br/>
 ![image](https://github.com/user-attachments/assets/51d628bb-5c35-4db9-872e-7f80bf1c5ea7)  <br/>
+Restart Visual Studio Code. <br/>
 
 **Step 8:** **Choose th folder "Terraform" you created in Step 2**  <br/>
 
@@ -42,10 +43,25 @@ b) then paste it within "Terraform" folder which you created in Step 2 <br/>
 
 **Step 12:** **In Visual Studio Code, your folder structure would look like below** <br/>
 Click on "Explorer" sign. <br/>
-![image](https://github.com/user-attachments/assets/24c163f8-4805-4f67-98cf-f05c2e533a15)
+![image](https://github.com/user-attachments/assets/24c163f8-4805-4f67-98cf-f05c2e533a15) <br/>
 
-**Step 13:** **Open bash terminal**
-![image](https://github.com/user-attachments/assets/0a48d89a-ed0a-4ca0-b30e-c075d671d951)
+**Step 13:** **Open bash terminal** <br/>
+![image](https://github.com/user-attachments/assets/0a48d89a-ed0a-4ca0-b30e-c075d671d951) <br/>
+
+a) Run _terraform version_ ,as shown below - you will get to see the terraform version you are going to use: <br/>
+![image](https://github.com/user-attachments/assets/3076c94f-f771-43f3-8b8e-0c8d62cbb6cb) <br/>
+
+b) Navigate to _terraform-test_ folder <br/>
+![image](https://github.com/user-attachments/assets/4febcdb7-9701-436d-a2ea-0d9f3bed8a8c) <br/>
+
+**Azure Free Account Set Up** <br/>
+Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/
+**Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends.
+
+
+
+
+
 
 
 
