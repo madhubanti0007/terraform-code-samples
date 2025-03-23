@@ -12,6 +12,7 @@ C:\Users\madhu\Terraform <br/>
 
 **Step 4:** **Now download and install Visual Studio Code** <br/>
 https://code.visualstudio.com/download <br/>
+For example, if you are using Windows OS - choose correct option against "User Installer" <br/>
 
 **Step 5:** **Click on Windows key and then click on** **"Edit the system environment variables** <br/>
 ![image](https://github.com/user-attachments/assets/6f15a7b4-dd16-48cc-bcf2-e30a436df21c) <br/>
@@ -21,6 +22,20 @@ Then click on "new" <br/>
 Add Path to your Terraform folder - which you accomplished in Step 2. <br/>
 In my case I added <br/>
 C:\Users\madhu\Terraform <br/>
+![image](https://github.com/user-attachments/assets/69ec8bca-ab9a-4ee6-ad6f-2c66c6ccef31) <br/>
+
+**Step 7:** **Open Visual Studio Code and install the extensions shown in image**
+![image](https://github.com/user-attachments/assets/51d628bb-5c35-4db9-872e-7f80bf1c5ea7)
+
+**Step 8:** **Click on File -> Open Folder in VS Code**
+![image](https://github.com/user-attachments/assets/bfb1aa65-31cf-48b4-bd80-490effbc2410)
+
+**Step 9:** **Choose th folder "Terraform" you created in Step 2**
+
+
+
+
+
 
 
 
