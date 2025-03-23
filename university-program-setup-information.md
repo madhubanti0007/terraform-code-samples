@@ -70,7 +70,7 @@ I have paid subscriptions, in your case, you will see free subscription <br/>
 
 b) copy and note down the subscription id. <br/>
 
-**Step 15:** Note down tenant id <br/>
+**Step 15:** **Note down tenant id** <br/>
 a) In search bar, search for  "Tenant Properties" <br/>
 
 ![image](https://github.com/user-attachments/assets/697976d9-9767-40a5-bdd9-da1f9a3ffc58)
@@ -79,6 +79,30 @@ a) In search bar, search for  "Tenant Properties" <br/>
 b) Copy the tenant id
 
 ![image](https://github.com/user-attachments/assets/a4a5785e-ad7e-476e-9688-f2f7fe8a6984)
+
+**Step 16:** **Search for "Resource Groups" in the search bar and create rsource group under free subscription**
+![image](https://github.com/user-attachments/assets/812bbf3a-6262-4237-aa7a-0029d8ee46eb)
+
+Expected outcome: **It should not give any error.**
+
+**Step 17** **Now Do App Registration  as mentioned below**
+
+Visit Azure portal and register “Terraform” app.
+![image](https://github.com/user-attachments/assets/d082a8ea-6333-4f5b-86a6-7cb73647bad5)
+
+
+start registering app
+
+**Note the app client id, you will require it later.**
+
+![image](https://github.com/user-attachments/assets/82434a47-9a97-465b-adec-864737ba6699)
+
+
+**Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
+![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
+
+
+note client secret
 
 
 
