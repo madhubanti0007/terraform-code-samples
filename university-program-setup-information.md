@@ -1,5 +1,5 @@
 **Install and Configure Terraform**
-
+f
 **Step 1:** **Install terraform as per below guideline**
 https://developer.hashicorp.com/terraform/install <br/>
 Download terraform based on your OS configuration. <br/>
@@ -65,7 +65,7 @@ Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsof
 
 Your tenant will be shown as "DEFAULT DIRECTORY" <br/>
 
-a)In search bar, search for: Subscriptions <br/>
+a) In search bar, search for: Subscriptions <br/>
 
 I have paid subscriptions, in your case, you will see free subscription <br/>
 
