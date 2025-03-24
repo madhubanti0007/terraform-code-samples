@@ -68,7 +68,6 @@ Your tenant will be shown as "DEFAULT DIRECTORY" <br/>
 a)In search bar, search for: Subscriptions <br/>
 
 I have paid subscriptions, in your case, you will see free subscription <br/>
-![image](https://github.com/user-attachments/assets/18750a9f-f178-414f-b860-abfa79952e0d) <br/>
 
 b) copy and note down the subscription id. <br/>
 
