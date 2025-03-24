@@ -70,6 +70,8 @@ a)In search bar, search for: Subscriptions <br/>
 I have paid subscriptions, in your case, you will see free subscription <br/>
 
 b) copy and note down the subscription id. <br/>
+![image](https://github.com/user-attachments/assets/56eb6ee3-79c3-4e19-bd9b-331be7d59c42)
+
 
 **Step 2:** **Note down tenant id** <br/>
 a) In search bar, search for  "Tenant Properties" <br/>
