@@ -74,7 +74,7 @@ b) copy and note down the subscription id. <br/>
 ![image](https://github.com/user-attachments/assets/56eb6ee3-79c3-4e19-bd9b-331be7d59c42)
 
 
-**Step 2:** **Note down tenant id** <br/>
+**Step 3:** **Note down tenant id** <br/>
 a) In search bar, search for  "Tenant Properties" <br/>
 
 ![image](https://github.com/user-attachments/assets/697976d9-9767-40a5-bdd9-da1f9a3ffc58)
@@ -84,14 +84,14 @@ b) Copy the tenant id
 
 ![image](https://github.com/user-attachments/assets/a4a5785e-ad7e-476e-9688-f2f7fe8a6984)
 
-**Step 3:** **Search for "Resource Groups" in the search bar and create rsource group under free subscription**
+**Step 4:** **Search for "Resource Groups" in the search bar and create rsource group under free subscription**
 ![image](https://github.com/user-attachments/assets/812bbf3a-6262-4237-aa7a-0029d8ee46eb)
 
 Expected outcome: **It should not give any error.**
 
 (Delete the created resource group)
 
-**Step 4:** **Now Do App Registration  as mentioned below**
+**Step 5:** **Now Do App Registration  as mentioned below**
 
 Visit Azure portal and register “Terraform” app.
 ![image](https://github.com/user-attachments/assets/d082a8ea-6333-4f5b-86a6-7cb73647bad5)
@@ -100,7 +100,7 @@ Visit Azure portal and register “Terraform” app.
 
 ![image](https://github.com/user-attachments/assets/82434a47-9a97-465b-adec-864737ba6699)
 
-**Step 5:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
+**Step 6:** **Create client secret and note the value as shown below _(once you leave or refresh page, secret value will not be visible to you anymore)_**
 ![image](https://github.com/user-attachments/assets/fb5b564d-c79c-4346-b121-0a0b2c74fa1b)
 
 **Test your Terraform Set-Up:**
