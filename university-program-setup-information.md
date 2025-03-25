@@ -57,10 +57,11 @@ b) Navigate to _terraform-test_ folder <br/>
 ![image](https://github.com/user-attachments/assets/4febcdb7-9701-436d-a2ea-0d9f3bed8a8c) <br/>
 
 **Azure Free Account Set Up** <br/>
+**Step 1: First create Azure Free Account:** <br/>
 Check out this blog: https://k21academy.com/microsoft-azure/create-free-microsoft-azure-trial-account/ <br/>
 **Note** - Azure will not deduct money from your credit card until you yourself want to subscribe to "pay As You Go" after free period ends. <br/>
 
-**Step 1:** **Login to portal.azure.com** <br/>
+**Step 2:** **After free account is set up, login to portal.azure.com** <br/>
 ![image](https://github.com/user-attachments/assets/da832553-55ef-4f80-93f1-8fbcf4b3a62d) <br/>
 
 Your tenant will be shown as "DEFAULT DIRECTORY" <br/>
