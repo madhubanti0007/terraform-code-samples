@@ -124,8 +124,8 @@ f) Run _terraform plan_
 Expected outcome: It should show you the resources you want to create
 ![image](https://github.com/user-attachments/assets/f9fc8da8-d8f8-44a5-bc5a-c623661b720d)
 
-**Opional:** If you would have LinkedIn account, you may visit this article and install Infracost plugin 
-Perform the steps mentioned till "Connect VSCode to Infracost".
+**Opional:** If you would have LinkedIn account, you may visit this article and install Infracost plugin.  <br/>
+Perform the steps mentioned till "Connect VSCode to Infracost". <br/>
 [LinkedIn Article](http://linkedin.com/pulse/infracost-predict-cost-your-terraform-before-you-provision-jash-5nquf/?trackingId=Lsmv6pz%2FSw%2BAJ331l0FBXA%3D%3D)
 
 
