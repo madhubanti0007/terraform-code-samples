@@ -35,3 +35,4 @@ It is a repo where I keep uploading terraform code samples
 
 steps to add github mcp server to cursor
 Successfully integrated MCP server for github
+steps to successfully integrate github mcp server
