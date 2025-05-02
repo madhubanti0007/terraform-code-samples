@@ -36,3 +36,10 @@ It is a repo where I keep uploading terraform code samples
 steps to add github mcp server to cursor
 Successfully integrated MCP server for github
 steps to successfully integrate github mcp server
+
+## Steps to Integrate GitHub MCP Server
+1. Open Cursor and go to the Extensions or Integrations section.
+2. Search for 'GitHub MCP server' and select it.
+3. Click 'Add' or 'Connect' and follow the authentication prompts.
+4. Provide your GitHub credentials or personal access token if required.
+5. Authorize the connection and verify integration status in Cursor.
