@@ -3,7 +3,7 @@ name: Auto Create Pull Request
 on:
   push:
     branches:
-      - add-github-mcp-server-steps
+      - '**'
 
 jobs:
   create-pull-request:
