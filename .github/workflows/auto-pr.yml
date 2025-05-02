@@ -1,0 +1,21 @@
+name: Auto Create Pull Request
+
+on:
+  push:
+    branches:
+      - add-github-mcp-server-steps
+
+jobs:
+  create-pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: master
+          title: "Auto: Add detailed steps to integrate GitHub MCP server in README"
+          body: "This PR was created automatically by a GitHub Action." 
