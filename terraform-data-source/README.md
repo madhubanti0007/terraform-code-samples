@@ -1,0 +1,2 @@
+terraform-data-source project shows how you can access a non-terraform  cloud resource using Terraform data source reference. Here Azure cloud environment is used.
+See the [medium article](https://medium.com/@madhubanti0007/data-sources-or-terraform-remote-state-in-terraform-make-your-control-secured-over-cloud-c20c0511d9cf)  to see how to execute the steps to access a resource using terraform-data-source:
