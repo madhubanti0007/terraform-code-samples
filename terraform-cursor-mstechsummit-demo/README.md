@@ -1,4 +1,3 @@
-Hello users
 # Azure Resource Group Provisioning with Terraform
 
 This configuration provisions an Azure Resource Group named `terraform-mstechsummit-rg` in the `East US` region.
