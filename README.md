@@ -27,4 +27,6 @@ This configuration creates an Azure Resource Group named `example-cursor-rg` in 
 ## Files
 - `main.tf`: Main Terraform configuration
 - `variables.tf`: (Empty) For future variables
-- `outputs.tf`: Outputs for the resource group 
+- `outputs.tf`: Outputs for the resource group
+
+PROMPTS USED: to be shared ...
