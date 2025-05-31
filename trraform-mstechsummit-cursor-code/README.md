@@ -1,3 +1,4 @@
+to be prsented in demo
 # Terraform MS Tech Summit Cursor Code
 
 This directory contains Terraform code samples for the MS Tech Summit, created using Cursor.
