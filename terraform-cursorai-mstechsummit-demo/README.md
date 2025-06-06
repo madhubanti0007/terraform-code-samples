@@ -1,3 +1,4 @@
+Last updated on 6th Jun
 # Terraform Azure Resource Group Example
 
 This configuration creates an Azure Resource Group using Terraform.
