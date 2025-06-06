@@ -1,27 +1,31 @@
+Last updated on 6th June
+  
 # Azure Resource Group with Terraform
 
-This configuration creates an Azure Resource Group named `example-cursor-rg` in the `East US` region.
+This configuration creates an Azure Resource Group named `example-cursor-rg` in the `East US` region using Terraform.
 
 ## Prerequisites
-
-* Terraform installed
-* Azure CLI installed and authenticated (`az login`)
-* An active Azure subscription
+- [Terraform](https://www.terraform.io/downloads.html) installed
+- Azure CLI installed and logged in (`az login`)
+- An active Azure subscription
 
 ## Usage
 
-1. Initialize Terraform:  
-terraform init
-2. Review the plan:  
-terraform plan
-3. Apply the configuration:  
-terraform apply
-4. Confirm the outputs:  
-   * Resource group name  
-   * Resource group location
+1. Initialize Terraform:
+   ```sh
+   terraform init
+   ```
+2. Review the plan:
+   ```sh
+   terraform plan
+   ```
+3. Apply the configuration:
+   ```sh
+   terraform apply
+   ```
+4. Confirm the resource group is created in Azure.
 
 ## Files
-
-* `main.tf`: Main Terraform configuration
-* `variables.tf`: (Empty) For future variables
-* `outputs.tf`: Outputs for the resource group
+- `main.tf`: Main Terraform configuration for the resource group
+- `variables.tf`: (Optional) Variables for extensibility
+- `outputs.tf`: Outputs for resource group name and location 
