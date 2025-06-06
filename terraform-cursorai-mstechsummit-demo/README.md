@@ -1,21 +1,25 @@
-Last updated on 6th June 2025
-  
-# Azure Resource Group with Terraform
+# terraform-cursorai-mstechsummit-demo
 
-This configuration creates an Azure Resource Group named `example-cursor-rg` in the `East US` region using Terraform.
+This directory contains a sample Terraform configuration for deploying resources on Azure. It is intended for demonstration purposes at the MS Tech Summit.
+
+## Contents
+- `main.tf`: Main Terraform configuration file
+- `variables.tf`: Input variable definitions
+- `provider.tf`: Provider configuration
+- `terraform.tfvars`: Variable values
+- `.terraform.lock.hcl`: Provider dependency lock file
+- `terraform.tfstate`: Terraform state file (for demo only; do not commit state files in production)
 
 ## Prerequisites
-- [Terraform](https://www.terraform.io/downloads.html) installed
-- Azure CLI installed and logged in (`az login`)
-- An active Azure subscription
+- [Terraform](https://www.terraform.io/downloads.html) >= 1.0
+- An Azure subscription
 
 ## Usage
-
 1. Initialize Terraform:
    ```sh
    terraform init
    ```
-2. Review the plan:
+2. Plan the deployment:
    ```sh
    terraform plan
    ```
@@ -23,9 +27,10 @@ This configuration creates an Azure Resource Group named `example-cursor-rg` in 
    ```sh
    terraform apply
    ```
-4. Confirm the resource group is created in Azure.
 
-## Files
-- `main.tf`: Main Terraform configuration for the resource group
-- `variables.tf`: (Optional) Variables for extensibility
-- `outputs.tf`: Outputs for resource group name and location 
+## Notes
+- This is a demo setup. Do not use the state file in production repositories.
+- Update variable values in `terraform.tfvars` as needed.
+
+## Author
+- [madhubanti0007](https://github.com/madhubanti0007)
