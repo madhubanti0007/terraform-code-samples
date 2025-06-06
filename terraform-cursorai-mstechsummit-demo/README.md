@@ -1,4 +1,4 @@
-Last Updated On 6th June
+Last Updated On 6th June 2025
 
 # terraform-cursorai-mstechsummit-demo
 
