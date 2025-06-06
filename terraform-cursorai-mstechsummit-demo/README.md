@@ -1,3 +1,5 @@
+Last Updated On 6th June
+
 # terraform-cursorai-mstechsummit-demo
 
 This directory contains a sample Terraform configuration for deploying resources on Azure. It is intended for demonstration purposes at the MS Tech Summit.
