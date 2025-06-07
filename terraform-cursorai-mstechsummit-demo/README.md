@@ -1,38 +1,30 @@
-Last Updated On 6th Jan 2025
+Last updated on 7th June, 2025
 
 # terraform-cursorai-mstechsummit-demo
 
-This directory contains a sample Terraform configuration for deploying resources on Azure. It is intended for demonstration purposes at the MS Tech Summit.
+This directory contains Terraform code samples used for the CursorAI Microsoft Tech Summit demo.
 
 ## Contents
-- `main.tf`: Main Terraform configuration file
-- `variables.tf`: Input variable definitions
-- `provider.tf`: Provider configuration
-- `terraform.tfvars`: Variable values
-- `.terraform.lock.hcl`: Provider dependency lock file
-- `terraform.tfstate`: Terraform state file (for demo only; do not commit state files in production)
+- Example Terraform configurations
+- Usage instructions
+- Best practices for infrastructure as code
+
+## How to Use
+1. Clone the repository.
+2. Navigate to this directory.
+3. Run `terraform init` to initialize the working directory.
+4. Run `terraform plan` to see the execution plan.
+5. Run `terraform apply` to provision the resources.
 
 ## Prerequisites
-- [Terraform](https://www.terraform.io/downloads.html) >= 1.0
-- An Azure subscription
-
-## Usage
-1. Initialize Terraform:
-   ```sh
-   terraform init
-   ```
-2. Plan the deployment:
-   ```sh
-   terraform plan
-   ```
-3. Apply the configuration:
-   ```sh
-   terraform apply
-   ```
+- [Terraform](https://www.terraform.io/downloads.html) installed
+- Access to the required cloud provider (e.g., Azure, AWS, GCP)
+- Proper authentication credentials set up
 
 ## Notes
-- This is a demo setup. Do not use the state file in production repositories.
-- Update variable values in `terraform.tfvars` as needed.
+- Review all configuration files before applying.
+- Customize variables as needed for your environment.
 
-## Author
-- [madhubanti0007](https://github.com/madhubanti0007)
+---
+
+For questions or contributions, please open an issue or pull request.
