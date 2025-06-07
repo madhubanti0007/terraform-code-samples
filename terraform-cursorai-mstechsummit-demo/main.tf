@@ -1,9 +1,4 @@
-resource "azurerm_resource_group" "example" {
+resource "azurerm_resource_group" "example_cursor_rg" {
   name     = var.resource_group_name
-  location = var.location
-
-  tags = {
-    environment = "demo"
-    created_by  = "terraform"
-  }
+  location = var.resource_group_location
 } 
