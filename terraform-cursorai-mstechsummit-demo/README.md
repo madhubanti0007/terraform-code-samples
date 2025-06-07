@@ -1,3 +1,5 @@
+Last updated on 7th June, 2025
+
 # terraform-cursorai-mstechsummit-demo
 
 This directory contains Terraform code samples used for the CursorAI Microsoft Tech Summit demo.
