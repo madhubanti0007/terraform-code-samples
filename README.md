@@ -31,4 +31,4 @@ This configuration creates an Azure Resource Group named `example-cursor-rg` in 
 
 PROMPTS USED: to be shared ...
 
-Last Updated on 8th June
+Last Updated on 8th June 2025
