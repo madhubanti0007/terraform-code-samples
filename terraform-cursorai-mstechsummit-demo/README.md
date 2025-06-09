@@ -1,3 +1,5 @@
+Last Updated On 09 June 2025
+
 # Azure Resource Group Terraform Configuration
 
 This Terraform configuration creates an Azure Resource Group for the CursorAI MS Tech Summit demo.
