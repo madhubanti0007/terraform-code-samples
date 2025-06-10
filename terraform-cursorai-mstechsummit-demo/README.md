@@ -1,25 +1,26 @@
-Last Updated On 09 June 2025
+# Azure Resource Group with Terraform
 
-# Azure Resource Group Terraform Configuration
-
-This Terraform configuration creates an Azure Resource Group for the CursorAI MS Tech Summit demo.
+This Terraform configuration creates an Azure Resource Group for the Cursor AI MS Tech Summit demo.
 
 ## Prerequisites
 
 1. **Azure CLI**: Install and configure Azure CLI
+2. **Terraform**: Install Terraform (>= 1.0)
+3. **Azure Subscription**: Ensure you have access to an Azure subscription
+
+## Setup
+
+1. **Login to Azure**:
    ```bash
    az login
    ```
 
-2. **Terraform**: Install Terraform (version >= 1.0)
+2. **Set the subscription** (if you have multiple):
+   ```bash
+   az account set --subscription "your-subscription-id"
+   ```
 
-## Configuration
-
-- **Resource Group Name**: `example-cursor-rg`
-- **Location**: `East US`
-- **Tags**: Environment=Demo, Project=CursorAI-MSTechSummit
-
-## Usage
+## Deployment
 
 1. **Initialize Terraform**:
    ```bash
@@ -36,23 +37,24 @@ This Terraform configuration creates an Azure Resource Group for the CursorAI MS
    terraform apply
    ```
 
-4. **Destroy resources** (when done):
-   ```bash
-   terraform destroy
-   ```
+4. **Confirm the deployment** by typing `yes` when prompted.
 
-## Files
+## Resources Created
 
-- `main.tf`: Main Terraform configuration
-- `variables.tf`: Variable definitions
-- `outputs.tf`: Output definitions
-- `.gitignore`: Git ignore file for Terraform
+- **Azure Resource Group**: `example-cursor-rg` in East US region
 
-## Customization
+## Cleanup
 
-You can override the default values by creating a `terraform.tfvars` file:
+To destroy the resources:
+```bash
+terraform destroy
+```
 
-```hcl
-resource_group_name = "my-custom-rg"
-location           = "West US 2"
-``` 
+## File Structure
+
+- `terraform.tf` - Provider configuration and requirements
+- `variables.tf` - Variable definitions
+- `main.tf` - Main resource configuration
+- `outputs.tf` - Output definitions
+- `terraform.tfvars` - Variable values
+- `README.md` - This documentation
