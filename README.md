@@ -1,3 +1,5 @@
+Last Updated Date - 10th June 2025
+
 # Azure Resource Group with Terraform
 
 This configuration creates an Azure Resource Group named `example-cursor-rg` in the `East US` region.
