@@ -32,5 +32,3 @@ This configuration creates an Azure Resource Group named `example-cursor-rg` in 
 - `outputs.tf`: Outputs for the resource group
 
 PROMPTS USED: to be shared ...
-
-Last Updated on 8th June 2025
