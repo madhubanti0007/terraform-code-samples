@@ -1,28 +1,61 @@
-# Azure Resource Group with Terraform
+# Terraform Azure Resource Group Demo
 
-This configuration creates an Azure Resource Group named `example-cursor-rg` in the `East US` region using Terraform.
+This Terraform configuration creates an Azure Resource Group for the CursorAI MS Tech Summit demo.
 
 ## Prerequisites
-- [Terraform](https://www.terraform.io/downloads.html) installed
-- An Azure subscription
-- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed and logged in (`az login`)
+
+1. **Azure CLI**: Install and configure Azure CLI
+   ```bash
+   az login
+   ```
+
+2. **Terraform**: Install Terraform (version >= 1.0)
+
+## Configuration
+
+The configuration will create:
+- Resource Group: `example-cursor-rg`
+- Location: `East US`
+- Tags for environment identification
 
 ## Usage
 
-1. Initialize Terraform:
-   ```sh
+1. **Initialize Terraform**:
+   ```bash
    terraform init
    ```
-2. Plan the deployment:
-   ```sh
+
+2. **Plan the deployment**:
+   ```bash
    terraform plan
    ```
-3. Apply the configuration:
-   ```sh
+
+3. **Apply the configuration**:
+   ```bash
    terraform apply
    ```
-   Confirm with `yes` when prompted.
+
+4. **Destroy resources** (when no longer needed):
+   ```bash
+   terraform destroy
+   ```
+
+## Customization
+
+You can customize the resource group by modifying the variables in `variables.tf` or by creating a `terraform.tfvars` file:
+
+```hcl
+resource_group_name = "my-custom-rg"
+location           = "West US 2"
+tags = {
+  Environment = "Production"
+  Project     = "MyProject"
+}
+```
 
 ## Outputs
-- `resource_group_name`: The name of the created resource group
-- `resource_group_location`: The location of the created resource group 
+
+After successful deployment, the following information will be displayed:
+- Resource Group ID
+- Resource Group Name
+- Resource Group Location 
