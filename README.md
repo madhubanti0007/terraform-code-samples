@@ -1,4 +1,4 @@
-Last Updated Date - 10th June 2025
+Last Updated on 11th June 2025
 
 # Azure Resource Group with Terraform
 
